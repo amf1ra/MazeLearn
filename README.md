@@ -3,12 +3,14 @@ MazeLearn es un juego educativo para niños creado por Josephine Crespo y Alissa
 
 ## Instalacion:
 
-1. Descargar el archivo y descomprimirlo
-
-2. Abrir el archivo con el nombre “My project.exe”
+1. Descargar el archivo
+2. Descomprimirlo
+3. Abrir la carpeta descomprimida
+4. Abrir el archivo con el nombre “My project.exe”
 
 ## Uso: 
-Abre el juego y haz clic en "Jugar". Atraviesa el laberinto 
+Abre el juego, haz clic en "Jugar" y atraviesa el laberinto.
+
 #### Tip: 
 Utiliza las teclas de movimiento estándar para navegar por el laberinto. Si presionas la tecla "W" y luego "A" o "S", activarás la función de sprint para superar desafíos más rápido.
 
