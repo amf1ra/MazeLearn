@@ -7,7 +7,10 @@ MazeLearn es un juego educativo para niños creado por Josephine Crespo y Alissa
 
 2. Abrir el archivo con el nombre “My project.exe”
 
-Uso: Abre el juego y haz clic en "Jugar". Atraviesa el laberinto (Tip: Utiliza las teclas de movimiento estándar para navegar por el laberinto. Si presionas la tecla "W" y luego "A" o "S", activarás la función de sprint para superar desafíos más rápido).
+## Uso: 
+Abre el juego y haz clic en "Jugar". Atraviesa el laberinto 
+#### Tip: 
+Utiliza las teclas de movimiento estándar para navegar por el laberinto. Si presionas la tecla "W" y luego "A" o "S", activarás la función de sprint para superar desafíos más rápido.
 
 ## Caracteristicas
 
